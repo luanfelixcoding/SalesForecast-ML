@@ -96,11 +96,11 @@ To use the Sales Forecast Program on Google Colab:
 4. **Navigate to the Notebook:**  
    You can either upload the Sales_Forecast.ipynb file or run it directly from the cloned repository:
    ```bash
-   %cd sales_forecast
+   %cd SalesForecast-ML
 
 5. **Run the Notebook:**
 Follow the cells in the notebook to execute the program.
 
 ### How to tweak this project for your own uses
 
-Since this is a simple example project, I would encourage you to clone and rename this project to use your own purposes as well as have extra libraries in code for other cases.
+Since this is a simple example project, I would encourage you to clone and rename this project to use your own purposes.
